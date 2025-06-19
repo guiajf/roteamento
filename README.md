@@ -195,9 +195,7 @@ for i in range(len(itinerario) - 1):
 # Obter coordenadas (lat, lon) dos nós do caminho
 route_coords = [(G.nodes[n]['y'], G.nodes[n]['x']) for n in full_path]
 ```
-:::
 
-::: {#9b81101f-7042-4c90-bdf9-28125af62f8f .cell .markdown}
 ### Visualizamos o mapa
 
 Criamos um mapa interativo com o pacote **Folium**:
@@ -239,6 +237,8 @@ O código pode ser adaptado para tarefas distintas, como roteiros
 turísticos otimizados, planejamento de entregas, análise de
 acessibilidade urbana e simulações de evacuação, em casos de desastres
 naturais.
+
+Baixa o arquivo *percurso.png* para visualizar o mapa interativo no navegador da sua preferência.
 
 **Referências**
 
