@@ -15,7 +15,6 @@ Rabelo](https://www.instagram.com/leticiarabelo.arq?igsh=dndsYTdsemM4ZWdw).
 import osmnx as ox
 import pandas as pd
 import numpy as np
-#import geopandas as gpd 
 import folium
 from folium.plugins import Fullscreen
 from shapely.geometry import Point
