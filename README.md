@@ -238,7 +238,7 @@ turísticos otimizados, planejamento de entregas, análise de
 acessibilidade urbana e simulações de evacuação, em casos de desastres
 naturais.
 
-Baixa o arquivo *percurso.png* para visualizar o mapa interativo no navegador da sua preferência.
+Baixe o arquivo *percurso.png* para visualizar o mapa interativo no navegador da sua preferência.
 
 **Referências**
 
