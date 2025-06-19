@@ -40,7 +40,7 @@ Armazenamos os locais em um dicionário com as coordenadas:
 coordenadas_referencia = {
     "Paço Municipal": (-21.761600, -43.349999),
     "ED. CIAMPI": (-21.7608312, -43.3496202),
-    "Galeria Pio X": (-21.760661, -43.348583),
+    "Galeria Pio X": (-21.7606305, -43.3484793),
     "Cine Theatro Central": (-21.7615775, -43.3478918),
     "Palacete Pinho": (-21.7608331, -43.3468349),
     "Cia. Dias Cardoso": (-21.7601146, -43.3448549),
