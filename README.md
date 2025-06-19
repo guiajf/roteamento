@@ -111,15 +111,6 @@ while current != end_point and len(tour) < len(X):
     if current == end_point:
         break
 
-# Nomes dos locais na ordem original
-obras = df['obra'].tolist()  
-
-# Ordenar o dicionário conforme a rota
-coordenadas_ordenadas = {
-    obras[i]: coordenadas_referencia[obras[i]] 
-    for i in tour
-}
-
 # Resultado
 print("Rota mais curta terminando no item 12:")
 for i, point in enumerate(tour):
