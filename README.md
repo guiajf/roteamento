@@ -39,13 +39,13 @@ Armazenamos os locais em um dicionário com as coordenadas:
 ``` python
 coordenadas_referencia = {
     "Paço Municipal": (-21.761600, -43.349999),
-    "ED. CIAMPI": (-21.761080, -43.349367),
+    "ED. CIAMPI": (-21.7608312, -43.3496202),
     "Galeria Pio X": (-21.760661, -43.348583),
-    "Cine Theatro Central": (-21.761135, -43.347926),
-    "Palacete Pinho": (-21.760593, -43.346864),
-    "Cia. Dias Cardoso": (-21.759881, -43.344195),
+    "Cine Theatro Central": (-21.7615775, -43.3478918),
+    "Palacete Pinho": (-21.7608331, -43.3468349),
+    "Cia. Dias Cardoso": (-21.7601146, -43.3448549),
     "Hotel Príncipe": (-21.7599733, -43.3440394),
-    "Associação Comercial": (-21.759881, -43.344195),
+    "Associação Comercial": (-21.7597099, -43.3441725),
     "Cia. Pantaleone Arcuri": (-21.762536, -43.342788),
     "Vila Iracema": (-21.763336, -43.344481),
     "Palacete dos Fellet": (-21.763280,	-43.345717),
